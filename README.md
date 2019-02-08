@@ -21,7 +21,7 @@ NutritionX
 # Links:
 
 https://github.com/DianaPachon/Project1
-https://rakkiraju.github.io/Project1/mainPage.html
+https://dianapachon.github.io/Project1/.
 
 # Images:
 
